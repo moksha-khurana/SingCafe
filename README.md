@@ -1,2 +1,2 @@
-# SingCafe
-Test project for Cafe 
+# SingCafeBackend
+Backend project for SingCafe 
